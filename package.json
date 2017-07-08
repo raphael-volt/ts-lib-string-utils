@@ -15,8 +15,8 @@
 		"watch:test": "nodemon --config nodemon.json --exec npm run test"
 	},
 	"author": {
-		"name": "raphael_volt",
-		"email": "raphael.ketmie@gmail.com"
+		"name": "raphael-volt",
+		"email": "raphael@.ketmie"
 	},
 	"main": "dist/ts-lib-string-utils.js",
 	"typings": "dist/ts-lib-string-utils.d.ts",
